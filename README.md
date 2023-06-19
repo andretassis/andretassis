@@ -20,7 +20,6 @@ Minha experiência anterior como líder de um time de vendas me proporcionou hab
 [![andretassis](https://github-readme-stats.vercel.app/api/top-langs/?username=andretassis&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 <div>
