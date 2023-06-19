@@ -30,6 +30,6 @@ Minha experiência anterior como líder de um time de vendas me proporcionou hab
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Andre Tassis](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com.br/in/andretassis](https://www.linkedin.com.br/in/andretassis)
+[![Linkedin: Andre Tassis](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/andretassis](https://www.linkedin.com/in/andretassis)
 [![Gmail Badge](https://img.shields.io/badge/-tassisandre@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tassisandre@gmail.com)](mailto:tassisandre@gmail.com)
 [![GitHub Andre Tassis]( https://img.shields.io/github/followers/AndreTassis?label=follow&style=social)](https://www.github.com/andretassis)
