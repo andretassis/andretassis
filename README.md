@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-Sou Andre Tassis, um desenvolvedor front-end apaixonado por aprender coisas novas e enfrentar desafios. Com habilidades sólidas em HTML, CSS, Bootstrap, JavaScript e React.js, estou preparado para criar experiências web envolventes e responsivas. Cada projeto para mim é uma oportunidade de aprendizado. Tenho experiência em projetos como desenvolvimento de CRUD, consumo de dados de API e criação de projetos dinâmicos e interativos. 
+Sou Andre Tassis, um desenvolvedor front-end apaixonado por aprender coisas novas e enfrentar desafios. Com habilidades sólidas em HTML, CSS, Bootstrap, JavaScript, TypeScript e React.js, estou preparado para criar experiências web envolventes e responsivas. Cada projeto para mim é uma oportunidade de aprendizado. Tenho experiência em projetos como desenvolvimento de CRUD, consumo de dados de API e criação de projetos dinâmicos e interativos. 
 
 Minha experiência anterior como líder de um time de vendas me proporcionou habilidades de liderança, comunicação e trabalho em equipe que são cruciais para colaborar de forma efetiva com colegas de trabalho, clientes e gerentes de projeto.
 
