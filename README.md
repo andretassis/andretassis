@@ -16,14 +16,13 @@ Minha experiência anterior como líder de um time de vendas me proporcionou hab
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=saas)
   
 <br/>
 
 [![andretassis](https://github-readme-stats.vercel.app/api/top-langs/?username=andretassis&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> Onde me encontrar: </h3> 
 
 <div>
 <a href="https://instagram.com/andretassis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
