@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-Sou Andre Tassis, um desenvolvedor front-end apaixonado por aprender coisas novas e enfrentar desafios. Com habilidades sólidas em HTML, CSS, Bootstrap, JavaScript, TypeScript, React.js e Angular, estou preparado para criar experiências web envolventes e responsivas. Cada projeto para mim é uma oportunidade de aprendizado. Tenho experiência em projetos como desenvolvimento de CRUD, consumo de dados de API e criação de projetos dinâmicos e interativos. 
+Sou Andre Tassis, um desenvolvedor front-end apaixonado por aprender coisas novas e enfrentar desafios. Com habilidades sólidas em HTML, CSS, SASS, Bootstrap, JavaScript, TypeScript, React.js e Angular, estou preparado para criar experiências web envolventes e responsivas. Cada projeto para mim é uma oportunidade de aprendizado. Tenho experiência em projetos como desenvolvimento de CRUD, consumo de dados de API e criação de projetos dinâmicos e interativos. 
 
 Minha experiência anterior como líder de um time de vendas me proporcionou habilidades de liderança, comunicação e trabalho em equipe que são cruciais para colaborar de forma efetiva com colegas de trabalho, clientes e gerentes de projeto.
 
@@ -16,6 +16,7 @@ Minha experiência anterior como líder de um time de vendas me proporcionou hab
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=saas)
   
 <br/>
 
